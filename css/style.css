@@ -135,7 +135,7 @@ a:hover .hover {
   font-size: .7em;
 }
 /*--------------------------------
- Works
+ Works,create
 ---------------------------------*/
 .works-list {
   display: flex;
@@ -146,7 +146,7 @@ a:hover .hover {
 .works-item {
   width: 30%;
   margin: 0 auto;
-  /*margin-bottom: 40px;*/
+  margin-bottom: 40px;
   color: #333;
 }
 .works-item:hover {
